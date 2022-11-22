@@ -9,3 +9,5 @@ contract MidToken is ERC20{
 
 
 }
+
+//contract address is: 0xD5e242CfB473409A5a4034C9893c51B4B1cfa418
